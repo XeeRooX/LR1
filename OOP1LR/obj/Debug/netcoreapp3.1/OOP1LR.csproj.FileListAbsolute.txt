@@ -1,0 +1,13 @@
+C:\Users\ПК\source\repos\OOP1LR\OOP1LR\obj\Debug\netcoreapp3.1\OOP1LR.csprojAssemblyReference.cache
+C:\Users\ПК\source\repos\OOP1LR\OOP1LR\obj\Debug\netcoreapp3.1\OOP1LR.AssemblyInfoInputs.cache
+C:\Users\ПК\source\repos\OOP1LR\OOP1LR\obj\Debug\netcoreapp3.1\OOP1LR.AssemblyInfo.cs
+C:\Users\ПК\source\repos\OOP1LR\OOP1LR\obj\Debug\netcoreapp3.1\OOP1LR.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\OOP1LR\OOP1LR\bin\Debug\netcoreapp3.1\OOP1LR.exe
+C:\Users\ПК\source\repos\OOP1LR\OOP1LR\bin\Debug\netcoreapp3.1\OOP1LR.deps.json
+C:\Users\ПК\source\repos\OOP1LR\OOP1LR\bin\Debug\netcoreapp3.1\OOP1LR.runtimeconfig.json
+C:\Users\ПК\source\repos\OOP1LR\OOP1LR\bin\Debug\netcoreapp3.1\OOP1LR.runtimeconfig.dev.json
+C:\Users\ПК\source\repos\OOP1LR\OOP1LR\bin\Debug\netcoreapp3.1\OOP1LR.dll
+C:\Users\ПК\source\repos\OOP1LR\OOP1LR\bin\Debug\netcoreapp3.1\OOP1LR.pdb
+C:\Users\ПК\source\repos\OOP1LR\OOP1LR\obj\Debug\netcoreapp3.1\OOP1LR.dll
+C:\Users\ПК\source\repos\OOP1LR\OOP1LR\obj\Debug\netcoreapp3.1\OOP1LR.pdb
+C:\Users\ПК\source\repos\OOP1LR\OOP1LR\obj\Debug\netcoreapp3.1\OOP1LR.genruntimeconfig.cache
